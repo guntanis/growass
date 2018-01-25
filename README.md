@@ -42,23 +42,25 @@ The goal was to build a fully automated system for a 4 sqft space for under $400
 
 ## Shopping List
 All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
-| Item |  Quantity | Unit Price | Total Price | Link
+
+| Item |  Quantity | Unit Price | Total Price | Link|
 |--|--|--|--|--|
-|Smart Plugs|1|26.99|26.99| [Amazon.com](https://www.amazon.com/gp/product/B06XSTJST6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XSTJST6&linkCode=as2&tag=growass-20&linkId=eb3d8085c1a73973ff27f7529c4b512f)
-|Dupont Wire|1|7.86|7.86|[Amazon.com](https://www.amazon.com/gp/product/B01EV70C78/ref=as_li_tl?ie=UTF8&tag=growass-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EV70C78&linkId=a0907a23f89360a27f405cad9c4160af)
-|Temp Sensors|1|7.99|7.99|[Amazon.com](http://amzn.to/2Fb4ayc)
-|Rasp Pi 3|1|36.94|36.94|[Amazon.com](http://amzn.to/2DBYuNf)
-|Irrigation System|1|11.99|11.99|[Amazon.com](http://amzn.to/2DxqNfF)
-|Water Pump|2|29.91|59.82|[Amazon.com](http://amzn.to/2DHv8QF)
-|USB Fans|4|7.09|28.36|[Amazon.com](http://amzn.to/2Dznapy)
-|Trellis Netting|1|6.99|6.99|[Amazon.com](http://amzn.to/2rH4Mtu)
-|Indoor Thermometer|1|9.36|9.36|[Amazon.com](http://amzn.to/2Gh1Jvo)
-|USB&120V Power Strip|1|16.99|16.99|[Amazon.com](http://amzn.to/2Gh67dt)
-|Grow Tent|1|51.99|51.99|[Amazon.com](http://amzn.to/2DBgeII)
-|300W LED|1 |75.99|75.99|[Amazon.com](B00PH1MQV8)
-|USB Switchable Hub|1|16.99|16.99|[Amazon.com](http://amzn.to/2Brm51i)
-|150 LadyBugs|1|4.00|4.00|[Amazon.com](http://amzn.to/2n9nVP6)
-|Extension Cord|1|9.33|9.33|[Amazon.com](http://amzn.to/2E9Syfe)
+|Smart Plugs|1|26.99|26.99| [Amazon.com](https://www.amazon.com/gp/product/B06XSTJST6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XSTJST6&linkCode=as2&tag=growass-20&linkId=eb3d8085c1a73973ff27f7529c4b512f)|
+|Dupont Wire|1|7.86|7.86|[Amazon.com](https://www.amazon.com/gp/product/B01EV70C78/ref=as_li_tl?ie=UTF8&tag=growass-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EV70C78&linkId=a0907a23f89360a27f405cad9c4160af)|
+|Temp Sensors|1|7.99|7.99|[Amazon.com](http://amzn.to/2Fb4ayc)|
+|Rasp Pi 3|1|36.94|36.94|[Amazon.com](http://amzn.to/2DBYuNf)|
+|Irrigation System|1|11.99|11.99|[Amazon.com](http://amzn.to/2DxqNfF)|
+|Water Pump|2|29.91|59.82|[Amazon.com](http://amzn.to/2DHv8QF)|
+|USB Fans|4|7.09|28.36|[Amazon.com](http://amzn.to/2Dznapy)|
+|Trellis Netting|1|6.99|6.99|[Amazon.com](http://amzn.to/2rH4Mtu)|
+|Indoor Thermometer|1|9.36|9.36|[Amazon.com](http://amzn.to/2Gh1Jvo)|
+|USB&120V Power Strip|1|16.99|16.99|[Amazon.com](http://amzn.to/2Gh67dt)|
+|Grow Tent|1|51.99|51.99|[Amazon.com](http://amzn.to/2DBgeII)|
+|300W LED|1 |75.99|75.99|[Amazon.com](B00PH1MQV8)|
+|USB Switchable Hub|1|16.99|16.99|[Amazon.com](http://amzn.to/2Brm51i)|
+|150 LadyBugs|1|4.00|4.00|[Amazon.com](http://amzn.to/2n9nVP6)|
+|Extension Cord|1|9.33|9.33|[Amazon.com](http://amzn.to/2E9Syfe)|
+
 Total Hardware Costs: $373.76 
 [As of January 25, 2018]
 
