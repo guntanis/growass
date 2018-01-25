@@ -70,3 +70,47 @@ Total Hardware Costs: $373.76
 Assemble Tent based on instructions. Make sure to choose a good space. Somewhere cool and dark, maybe a walking closet, a loft, an empty bedroom. If the weather allows, you can bring your tent outside.
 Locate your tent close to at least two power outlets.
 
+
+## Putting it together
+
+### Tent Assembly
+Assemble Tent based on instructions. Make sure to choose a good space. Somewhere cool and dark, maybe a walking closet, a loft, an empty bedroom. If the weather allows, you can bring your tent outside.
+Locate your tent close to at least two power outlets.
+
+ *TODO: Pictures*
+
+### Basic Electric Setup
+ 1. Bring in the extension cord from the outlet into the tent. 
+ 2. Plug in the Power Strip.
+ 3. Plug in your Grow Light to the power strip using one the "Etekcity" smart plugs.
+ 4. Plug in your Raspberry Pi to one of the USB ports in the power strip.
+	 1. Plug in the USB hub to one of the USB ports in the raspberry pi.
+		 1. Plug in all the fans to the USB Hub.
+			 1. Set all the fans to the On position using the switch in the back.
+ 5. Plug in your pump to the main power plug using the other "Etekcity" smart plug. **Don't run the pump without water**
+
+*TODO: Pictures*
+
+### Light
+Hang your light about 18" (45cm) away from the plant.
+
+ *TODO: Pictures*
+
+### Fans
+ 1. You want to position two fans in the floor of the tent, pointing to your plant in different directions. 
+ 2. Another fan will be pointing outwards, pulling air out of the tent.
+ 3. A fourth fan will be pointing inwards, pulling air into the tent.
+ 
+ ### Irrigation
+*TODO: Setup Instructions/Photos.*
+
+ ### Water Pump
+*TODO: Setup Instructions/Photos.* 
+
+### Camera
+IP Viewer for Fire.
+*TODO: Setup Instructions/Photos.*
+
+### Irrigation
+*TODO: Setup Instructions/Photos.*
+
